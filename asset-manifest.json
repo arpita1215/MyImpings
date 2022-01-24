@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MyImpings/static/css/main.d8309dbc.css",
+    "main.js": "/MyImpings/static/js/main.5fb6bc44.js",
+    "static/js/787.f3fe4805.chunk.js": "/MyImpings/static/js/787.f3fe4805.chunk.js",
+    "index.html": "/MyImpings/index.html",
+    "main.d8309dbc.css.map": "/MyImpings/static/css/main.d8309dbc.css.map",
+    "main.5fb6bc44.js.map": "/MyImpings/static/js/main.5fb6bc44.js.map",
+    "787.f3fe4805.chunk.js.map": "/MyImpings/static/js/787.f3fe4805.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8309dbc.css",
+    "static/js/main.5fb6bc44.js"
+  ]
+}
