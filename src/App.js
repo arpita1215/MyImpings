@@ -31,7 +31,9 @@ const App = () => {
   useEffect(() => {
     const Notes = localStorage.getItem("notes");
     console.log(Notes);
+    if(Notes)
     setAddItem(JSON.parse(Notes));
+
   }, []);
 
   return (
@@ -39,7 +41,7 @@ const App = () => {
       <Header />
       <CreateNote passNote={addNote} />
 
-      {addItem.map((val, index) => {
+      {addItem  && addItem.map((val, index) => {
         return (
           <Note
             key={index}
