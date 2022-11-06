@@ -24,7 +24,7 @@ const App = () => {
         localStorage.setItem("notes", JSON.stringify(resultingArr));
       return resultingArr;
     });
-    // localStorage.setItem("notes", JSON.stringify(resultingArr));
+    // localStorage.setItem("notes", JSON.stringify(resultingArr));ertyuiop[]
   };
 
 
