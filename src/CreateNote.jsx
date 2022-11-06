@@ -28,8 +28,6 @@ const CreateNote =(props) =>{
     }
 
 
-
-
     const addEvent=()=>{
         note.title=note.title.trim();
         note.content=note.content.trim();
